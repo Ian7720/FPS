@@ -20,7 +20,7 @@ This project is an engaging and interactive First-Person Shooter (FPS) game deve
    ```bash
    open index.html
    ```
-3.**Change Graphics Directory**: 
+3. **Change Graphics Directory**: 
    Update the directory path of the grapics in the code to the correct location on your system.
 
 ## User Manual
