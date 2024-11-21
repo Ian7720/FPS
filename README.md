@@ -29,8 +29,7 @@ This project is an engaging and interactive First-Person Shooter (FPS) game deve
 - **Jump**: Press `Space` to jump.
 - **Camera Angle**: Move the mouse to change the camera angle.
 - **Shoot**: Left-click the mouse to shoot.
-- **Pause**: Press `Esc` to pause the game.
-- **Restart**: Press `P` to restart the game.
+- **Pause**: Press `P` to pause the game.
 - **Objective**: Destroy 4 targets to complete a level. Complete Level 3 to win the game. If you run out of bullets, you lose.
 
 ## Sample Output
